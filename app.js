@@ -8,7 +8,7 @@ let x = 1;
 const appendDiv =  (limit = 26 + x) =>{
    
     while(x <=limit){
-        let p = document.createElement("p");
+        let p = document.createElement("h2");
         p.innerText=`Masai Student ${x}`;
         box.append(p);
         x++

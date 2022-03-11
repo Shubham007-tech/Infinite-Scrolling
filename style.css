@@ -1,0 +1,11 @@
+body{
+    margin:0;
+}
+
+#box{
+    margin: auto;
+    width: 60%;
+    border: 10px solid rgb(238, 49, 49);
+    text-align: center;
+
+}
