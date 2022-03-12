@@ -1,5 +1,5 @@
 let box =  document.getElementById('box')
-let temp = document.documentElement.scrollHeight
+let temp = document.documentElement.scrollHeight;
 
 
 
